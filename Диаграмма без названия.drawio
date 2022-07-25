@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T15:26:59.807Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="lgMW167qk6Ib_gCb6JFV" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-25T15:27:12.257Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="D9DDeLrX1ojcGoIuag_k" version="20.2.0" type="github">
   <diagram id="zTItZL9wTKK4X7dXP2Oj" name="Страница 1">
     <mxGraphModel dx="1129" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -131,7 +131,7 @@
           <mxGeometry x="675" y="80" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="taa9uCPGDnzsBaroi36O-45" value="Действия пользователя" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="35" y="555" width="90" height="30" as="geometry" />
+          <mxGeometry x="35" y="550" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="taa9uCPGDnzsBaroi36O-46" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Реакция на продукт / удалить реакцию&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="50" y="585" width="170" height="30" as="geometry" />
